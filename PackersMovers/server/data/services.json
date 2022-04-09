@@ -1,0 +1,74 @@
+{
+    "1": {
+        "id": 1,
+        "name": "International Moving",
+        "description": "A van line, a removalist, or a moving company deals with assisting businesses and people with moving their assets / belongings from one location to another. They offer various services, including moving, packing, unpacking, arranging the items, loading, and unloading. Such a company may also offer cleaning services for warehouses, offices, houses, and apartments.",
+        "category_id": "1",
+        "img": "https://srspackersandmovers.com/assets/images/srs_services/international.jpg",
+        "price": "$500"
+    },
+    "2": {
+        "id": 2,
+        "name": "Domestic Moving",
+        "description": "A process of relocation, which is used by individual or corporation for moving their household goods from one city to another city are Known as domestic shifting or interstate relocation.",
+        "category_id": "2",
+        "img": "https://homecarestorage.com/images/Domestic-services.jpg",
+        "price": "$400"
+    },
+    "3": {
+        "id": 3,
+        "name": "Household Removal & Storage",
+        "description": "In most of the cases, repositioning customers do not finalize their destination and they require a safe place to store their household goods. Some might be waiting for a new home to be built, few might be travelling overseas for a short period of time just to take new assignments, others might be moving into an apartment that can't billet all of their belongings, and thus, just need extra space. Bottom line is if you can't move it, then APML Household Removals and Storage services are the perfect solutions to preserve your memories by storing your household goods for as long as you need",
+        "category_id": "3",
+        "img": "https://nebula.wsimg.com/34d0d1cf06e59f79346938a377bf096a?AccessKeyId=D0AAC1D0C5B1364CE2F9&disposition=0&alloworigin=1",
+        "price": "$450"
+    },
+    "4": {
+        "id": 4,
+        "name": "Car Carriers",
+        "description": "We offer a wide range of Car Carriers that are fabricated with well integrated rectangular cross tubings. The upper deck platform has 3 platform constructions for flexibility at the time of multiple car loading. Loading and unloading is operated using twin hydraulic cylinders. In addition, there are various other accessories available such as SUPD, RUPD, tool box and stepney bracket.",
+        "category_id": "4",
+        "img": "https://media.istockphoto.com/photos/tesla-vehicles-car-transporter-picture-id1194754578?k=20&m=1194754578&s=612x612&w=0&h=TWhsFVgux68umq68IP7qZQ0Ab1bxCRYi-fZtiwucs9U=",
+        "price": "$390"
+    },
+    "5": {
+        "id": 5,
+        "name": "Contract Logistics",
+        "description": "Contract logistics companies handle activities such as designing and planning supply chains, designing facilities, warehousing, transporting and distributing goods, processing orders and collecting payments, managing inventory and even providing certain aspects of customer service.",
+        "category_id": "5",
+        "img": "https://cdn.tibagroup.com/mx/wp-content/uploads/sites/5/2017/01/Piramide-4PL_ING.jpg",
+        "price": "$475"
+    },
+    "6": {
+        "id": 6,
+        "name": "Commercial Moving",
+        "description": "Commercial moving jobs tend to involve commercial real estate properties with specific rules. They often require different equipment and have strict timelines. The logistics of a commercial move can be complex. That's were the experts at Rose City Moving can help.",
+        "category_id": "6",
+        "img": "https://www.fitzmovers.com/hubfs/movers3.jpg",
+        "price": "$365"
+    },
+    "7": {
+        "id": 7,
+        "name": "Industrial Moving",
+        "description": "Industrial moving, otherwise known as industrial transfer, can be defined as a change in site, as well as a radical change in terms of organization. It generally occurs every 15 to 20 years, depending on the size of the company.",
+        "category_id": "7",
+        "img": "https://www.eaglewestcranes.com/wp-content/uploads/2018/04/industrial-moving-hotspot-1.jpg",
+        "price": "$920"
+    },
+    "8": {
+        "id": 8,
+        "name": "Warehousing & Virtual Warehouse",
+        "description": "According to the Science Direct, a virtual warehouse is “a state of real-time global visibility for logistics assets such as inventory and vehicles.” Simply put, it is software that provides a comprehensive view of assets and materials for logistics and fulfillment purposes.",
+        "category_id": "8",
+        "img": "https://www.dcvelocity.com/ext/resources/images/articles/2020/202012/tigers-SMARTLOG-Ridderkerk-70.jpg?t=1607720592&width=1080",
+        "price": "$785"
+    },
+    "9": {
+        "id": 9,
+        "name": "Insurance Services",
+        "description": "Insurance Services means any renewal, discontinuance or replacement of any insurance or reinsurance by, or handling self-insurance programs, insurance claims or other insurance administrative functions.",
+        "category_id": "9",
+        "img": "https://www.kajlapackersandmovers.com/assets/img/services/insurance.jpeg",
+        "price": "$270"
+    }
+}
